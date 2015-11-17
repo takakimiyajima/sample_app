@@ -14,6 +14,7 @@ gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.1.2'
 gem 'turbolinks', '2.5.1'
 gem 'jbuilder', '1.5.3'
+gem 'devise', '3.4.1'
 
 group :doc do
   gem 'sdoc', '0.4.1', require: false
